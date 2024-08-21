@@ -1,0 +1,3 @@
+This is an abridged compilation of the code I worked on for the game Habit of Force during my time working for Saber Fish Studios under professor Brandon Sichling at Northeastern University from July to December 2023.
+The primary goal of my work on the team was developing tools for members of the design team to create abilities for characters in the game. The code in this repository encompasses all of the work that was done to achieve this goal.
+The folder "ActionsAbilities" contains code that I created entirely myself as part of the ability designer project (the majority of the code in this repository). The additional folders provided contain code for context/dependencies, where I contributed to part of the code, but not all of it.
