@@ -9,7 +9,3 @@ The folder "ActionsAbilities" contains code that I created entirely myself as pa
 # Outside Links
 
 [Game Demo from January 2024](https://jordan-sadprofeso.itch.io/habit-of-force)
-
-[Documentation on how to use the Ability Designer tools](https://www.notion.so/sabrefishstudios/Ability-Designer-9d8e0f37a5e24d88b0e81f6e72cdac17)
-
-[Documentation on how to use the Combat Visual tools](https://www.notion.so/sabrefishstudios/VFX-Animation-System-bec97050d3c54f7ab8c4d9dc549d7cf8)
